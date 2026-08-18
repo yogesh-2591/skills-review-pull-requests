@@ -51,7 +51,7 @@ The **Files changed** tab is the primary place for collecting feedback. It allow
    Looks good to me. I think this is more intuitive. Nice work!
    ```
 
-   <img width="300" alt="Submit review button" src="../images/submit-review-button.png" />
+   <img width="300" alt="Submit review button" src="https://github.com/yogesh-2591/skills-review-pull-requests/blob/main/.github/images/submit-review-button.png?raw=true" />
 
    > 🪧 **Note:** You can't choose **Approve** or **Request changes** on your own pull request.
 
