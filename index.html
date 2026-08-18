@@ -48,7 +48,7 @@
   </tr>
 </table>
 
-<h2 hidden>Game over</h2>
+<h2 hidden>Game over, refresh to play again 🧑‍💻 🤖!</h2>
 <button id="play-again" hidden>Play again</button>
 
 <script>
@@ -149,11 +149,11 @@
   // Display game over, cancel events
   function endGame(result) {
     if (result === "draw") {
-      gameOver.textContent = "Game over: Draw";
+      gameOver.textContent = "Game over, refresh to play again 🧑‍💻 🤖!: Draw";
     } else if (result === "human") {
-      gameOver.textContent = "Game over: You win";
+      gameOver.textContent = "Game over, refresh to play again 🧑‍💻 🤖!: You win";
     } else if (result === "robot") {
-      gameOver.textContent = "Game over: Robot wins";
+      gameOver.textContent = "Game over, refresh to play again 🧑‍💻 🤖!: Robot wins";
     }
     gameOver.hidden = false;
     playAgainBtn.hidden = false;
