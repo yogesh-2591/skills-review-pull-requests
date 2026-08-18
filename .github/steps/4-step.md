@@ -21,7 +21,7 @@ The **Add a suggestion** feature is a button in the comment text editor. It inse
 
 1. Click the **Add a suggestion** button to insert a modifiable copy of the line.
 
-   <img width="300" alt="add-a-suggestion-button" src="../images/add-a-suggestion-button.png" />
+   <img width="300" alt="add-a-suggestion-button" src="https://github.com/yogesh-2591/skills-review-pull-requests/blob/main/.github/images/add-a-suggestion-button.png?raw=true" />
 
 1. Edit the suggestion to match below and click the **Comment** button.
 
